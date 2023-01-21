@@ -11,5 +11,5 @@ pip install -r requirements.txt
 First modify source code to do what you want, then
 
 ```
-./keepass_utils.py <path to .kdbx file>
+./keepass_utils.py path/to/database.kdbx
 ```
